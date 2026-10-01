@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" width="600" height="420" role="img" aria-label="Radar de habilidades web">
+<rect width="600" height="420" rx="12" fill="#0f172a"/>
+<text x="300" y="34" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="15" fill="#2dd4bf">web_skill_radar</text>
+<polygon points="300.0,177.5 328.1,193.8 328.1,226.2 300.0,242.5 271.9,226.2 271.9,193.8" fill="none" stroke="#334155" stroke-width="1"/>
+<polygon points="300.0,145.0 356.3,177.5 356.3,242.5 300.0,275.0 243.7,242.5 243.7,177.5" fill="none" stroke="#334155" stroke-width="1"/>
+<polygon points="300.0,112.5 384.4,161.2 384.4,258.8 300.0,307.5 215.6,258.8 215.6,161.2" fill="none" stroke="#334155" stroke-width="1"/>
+<polygon points="300.0,80.0 412.6,145.0 412.6,275.0 300.0,340.0 187.4,275.0 187.4,145.0" fill="none" stroke="#334155" stroke-width="1"/>
+<line x1="300" y1="210" x2="300.0" y2="80.0" stroke="#334155" stroke-width="1"/>
+<line x1="300" y1="210" x2="412.6" y2="145.0" stroke="#334155" stroke-width="1"/>
+<line x1="300" y1="210" x2="412.6" y2="275.0" stroke="#334155" stroke-width="1"/>
+<line x1="300" y1="210" x2="300.0" y2="340.0" stroke="#334155" stroke-width="1"/>
+<line x1="300" y1="210" x2="187.4" y2="275.0" stroke="#334155" stroke-width="1"/>
+<line x1="300" y1="210" x2="187.4" y2="145.0" stroke="#334155" stroke-width="1"/>
+<polygon points="300.0,99.5 384.4,161.2 373.2,252.2 300.0,320.5 221.2,255.5 226.8,167.8" fill="#2dd4bf" fill-opacity="0.25" stroke="#2dd4bf" stroke-width="2"/>
+<circle cx="300.0" cy="99.5" r="4" fill="#2dd4bf"/>
+<circle cx="384.4" cy="161.2" r="4" fill="#2dd4bf"/>
+<circle cx="373.2" cy="252.2" r="4" fill="#2dd4bf"/>
+<circle cx="300.0" cy="320.5" r="4" fill="#2dd4bf"/>
+<circle cx="221.2" cy="255.5" r="4" fill="#2dd4bf"/>
+<circle cx="226.8" cy="167.8" r="4" fill="#2dd4bf"/>
+<text x="300.0" y="56.0" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#e2e8f0">JavaScript</text>
+<text x="436.8" y="135.0" text-anchor="start" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#e2e8f0">PHP</text>
+<text x="436.8" y="293.0" text-anchor="start" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#e2e8f0">Python</text>
+<text x="300.0" y="372.0" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#e2e8f0">Frontend</text>
+<text x="163.2" y="293.0" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#e2e8f0">Backend</text>
+<text x="163.2" y="135.0" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#e2e8f0">Bases de datos</text>
+</svg>

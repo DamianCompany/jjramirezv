@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" width="900" height="250" role="img" aria-label="Terminal con el perfil de Jelibeth Ramirez">
+  <rect width="900" height="250" rx="12" fill="#0f172a"/>
+  <rect width="900" height="34" rx="12" fill="#1e293b"/>
+  <rect y="22" width="900" height="12" fill="#1e293b"/>
+  <circle cx="22" cy="17" r="6" fill="#f87171"/>
+  <circle cx="44" cy="17" r="6" fill="#fbbf24"/>
+  <circle cx="66" cy="17" r="6" fill="#34d399"/>
+  <text x="450" y="22" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#94a3b8">jjramirezv@dev: ~</text>
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="15">
+    <text x="28" y="70" fill="#2dd4bf">jjramirezv:~$ <tspan fill="#e2e8f0">whoami</tspan></text>
+    <text x="28" y="98" fill="#e2e8f0">name:      <tspan fill="#c4b5fd">Jelibeth Ramirez</tspan></text>
+    <text x="28" y="122" fill="#e2e8f0">role:      <tspan fill="#c4b5fd">Web Developer</tspan></text>
+    <text x="28" y="146" fill="#e2e8f0">company:   <tspan fill="#c4b5fd">Damian Company</tspan></text>
+    <text x="28" y="170" fill="#e2e8f0">location:  <tspan fill="#c4b5fd">Perú</tspan></text>
+    <text x="28" y="194" fill="#e2e8f0">focus:     <tspan fill="#c4b5fd">educación · negocios · trazabilidad agroindustrial</tspan></text>
+    <text x="28" y="218" fill="#e2e8f0">stack:     <tspan fill="#c4b5fd">JavaScript · PHP · Python</tspan></text>
+    <text x="28" y="242" fill="#2dd4bf">jjramirezv:~$ <tspan fill="#e2e8f0">learning --by building</tspan><tspan fill="#2dd4bf"> █</tspan></text>
+  </g>
+</svg>

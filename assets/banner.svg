@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Jelibeth Ramirez, Web Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#134e4a"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#ffffff" stroke-width="1">
+    <path d="M0 55H900M0 110H900M0 165H900"/>
+    <path d="M150 0V220M300 0V220M450 0V220M600 0V220M750 0V220"/>
+  </g>
+  <circle cx="780" cy="40" r="90" fill="#2dd4bf" opacity="0.08"/>
+  <circle cx="860" cy="190" r="70" fill="#c4b5fd" opacity="0.10"/>
+  <text x="60" y="48" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#2dd4bf">&lt;/&gt; jjramirezv</text>
+  <text x="60" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f8fafc">Jelibeth Ramirez</text>
+  <rect x="60" y="124" width="120" height="4" rx="2" fill="url(#accent)"/>
+  <text x="60" y="162" font-family="JetBrains Mono, Consolas, monospace" font-size="18" fill="#e2e8f0">Web Developer · Educación · Negocios · Trazabilidad agroindustrial</text>
+  <text x="60" y="190" font-family="JetBrains Mono, Consolas, monospace" font-size="14" fill="#94a3b8">JavaScript · PHP · Python  |  Aprendiendo construyendo</text>
+</svg>
